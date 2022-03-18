@@ -68,3 +68,18 @@ body {
 	font-family: 'Hubballi', cursive;
 	color: #E0B3B0;
 }
+a:link {
+	color: #E0B3B0;
+
+}
+
+a:visited {
+	color: #E0B3B0;
+
+}
+
+a:hover {
+	color: #E0B3B0;
+	background-color: #3B2F2F;
+
+}
