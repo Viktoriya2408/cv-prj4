@@ -50,6 +50,16 @@ body {
 .biography-details li, .skill-list li {
 	padding-left: 1em;
 }
+.language-progress{
+	background-color:#E0B3B0;
+	border-color: #3B2F2F;  
+    border-width: .10em;
+  	border-style: solid;
+}
+
+.language-level{
+	background-color: #C06163;
+}
 
 /* Styles for contact icons */
 
@@ -79,7 +89,7 @@ a:visited {
 }
 
 a:hover {
-	color: #E0B3B0;
+	color: ;
 	background-color: #3B2F2F;
 
 }
